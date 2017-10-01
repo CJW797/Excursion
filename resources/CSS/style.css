@@ -5,7 +5,28 @@ h1 {
   color: white;
   text-align: center;
 }
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
 a {
   color: aquamarine;
   font-size: 16px;
+}
+html {
+  background-color: black;
+  text-align: center;
+}
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+.copyright {
+  color: gray;
+  text-align: right;
+  font-size: 16px;
+  font-weight: normal;
 }
